@@ -1,0 +1,226 @@
+==> /home/joona/.bash_history <==
+setxkbmap fi
+sudo apt install x
+sudo apt install x11-xkb-utils
+setxkbmap fi
+sudo apt/get firefox
+sudo apt-get firefox
+cd /var/log
+ls
+cd &
+sudo apt-get install lightdm
+sudo apt-get update
+sudo apt-get install xubuntu desktop
+sudo apt-get install xubuntu-desktop
+sudo apt-get install -y ssh
+sudo apt-get install ssh
+
+==> /var/log/auth.log <==
+Nov 21 08:30:32 ubuntu groupadd[11610]: new group: name=lightdm, GID=117
+Nov 21 08:30:32 ubuntu useradd[11616]: new user: name=lightdm, UID=110, GID=117, home=/var/lib/lightdm, shell=/bin/false
+Nov 21 08:30:32 ubuntu usermod[11621]: change user 'lightdm' password
+Nov 21 08:30:32 ubuntu chage[11626]: changed password expiry for lightdm
+Nov 21 08:30:32 ubuntu groupadd[11639]: group added to /etc/group: name=nopasswdlogin, GID=118
+Nov 21 08:30:32 ubuntu groupadd[11639]: group added to /etc/gshadow: name=nopasswdlogin
+Nov 21 08:30:32 ubuntu groupadd[11639]: new group: name=nopasswdlogin, GID=118
+Nov 21 08:30:41 ubuntu groupadd[11740]: group added to /etc/group: name=avahi, GID=119
+Nov 21 08:30:41 ubuntu groupadd[11740]: group added to /etc/gshadow: name=avahi
+Nov 21 08:30:41 ubuntu groupadd[11740]: new group: name=avahi, GID=119
+Nov 21 08:30:41 ubuntu useradd[11744]: new user: name=avahi, UID=111, GID=119, home=/var/run/avahi-daemon, shell=/bin/false
+Nov 21 08:30:41 ubuntu usermod[11749]: change user 'avahi' password
+Nov 21 08:30:41 ubuntu chage[11754]: changed password expiry for avahi
+Nov 21 08:30:41 ubuntu chfn[11757]: changed user 'avahi' information
+Nov 21 08:30:43 ubuntu groupadd[11877]: group added to /etc/group: name=bluetooth, GID=120
+Nov 21 08:30:43 ubuntu groupadd[11877]: group added to /etc/gshadow: name=bluetooth
+Nov 21 08:30:43 ubuntu groupadd[11877]: new group: name=bluetooth, GID=120
+Nov 21 08:30:45 ubuntu groupadd[11997]: group added to /etc/group: name=scanner, GID=121
+Nov 21 08:30:45 ubuntu groupadd[11997]: group added to /etc/gshadow: name=scanner
+Nov 21 08:30:45 ubuntu groupadd[11997]: new group: name=scanner, GID=121
+Nov 21 08:30:47 ubuntu groupadd[12052]: group added to /etc/group: name=colord, GID=122
+Nov 21 08:30:47 ubuntu groupadd[12052]: group added to /etc/gshadow: name=colord
+Nov 21 08:30:47 ubuntu groupadd[12052]: new group: name=colord, GID=122
+Nov 21 08:30:47 ubuntu useradd[12056]: new user: name=colord, UID=112, GID=122, home=/var/lib/colord, shell=/bin/false
+Nov 21 08:30:47 ubuntu usermod[12061]: change user 'colord' password
+Nov 21 08:30:47 ubuntu chage[12066]: changed password expiry for colord
+Nov 21 08:30:47 ubuntu chfn[12069]: changed user 'colord' information
+Nov 21 08:30:49 ubuntu useradd[12127]: new user: name=dnsmasq, UID=113, GID=65534, home=/var/lib/misc, shell=/bin/false
+Nov 21 08:30:50 ubuntu usermod[12132]: change user 'dnsmasq' password
+Nov 21 08:30:50 ubuntu chage[12137]: changed password expiry for dnsmasq
+Nov 21 08:30:50 ubuntu chfn[12140]: changed user 'dnsmasq' information
+Nov 21 08:31:13 ubuntu groupadd[12260]: group added to /etc/group: name=pulse, GID=123
+Nov 21 08:31:13 ubuntu groupadd[12260]: group added to /etc/gshadow: name=pulse
+Nov 21 08:31:13 ubuntu groupadd[12260]: new group: name=pulse, GID=123
+Nov 21 08:31:13 ubuntu useradd[12264]: new user: name=pulse, UID=114, GID=123, home=/var/run/pulse, shell=/bin/false
+Nov 21 08:31:13 ubuntu usermod[12269]: change user 'pulse' password
+Nov 21 08:31:13 ubuntu chage[12274]: changed password expiry for pulse
+Nov 21 08:31:14 ubuntu chfn[12277]: changed user 'pulse' information
+Nov 21 08:31:14 ubuntu gpasswd[12282]: user pulse added by root to group audio
+Nov 21 08:31:14 ubuntu groupadd[12288]: group added to /etc/group: name=pulse-access, GID=124
+Nov 21 08:31:14 ubuntu groupadd[12288]: group added to /etc/gshadow: name=pulse-access
+Nov 21 08:31:14 ubuntu groupadd[12288]: new group: name=pulse-access, GID=124
+Nov 21 08:31:34 ubuntu groupadd[12630]: group added to /etc/group: name=rtkit, GID=125
+Nov 21 08:31:34 ubuntu groupadd[12630]: group added to /etc/gshadow: name=rtkit
+Nov 21 08:31:34 ubuntu groupadd[12630]: new group: name=rtkit, GID=125
+Nov 21 08:31:34 ubuntu useradd[12634]: new user: name=rtkit, UID=115, GID=125, home=/proc, shell=/bin/false
+Nov 21 08:31:34 ubuntu usermod[12639]: change user 'rtkit' password
+Nov 21 08:31:34 ubuntu chage[12644]: changed password expiry for rtkit
+Nov 21 08:31:34 ubuntu chfn[12647]: changed user 'rtkit' information
+Nov 21 08:31:42 ubuntu useradd[13345]: new user: name=usbmux, UID=116, GID=46, home=/var/lib/usbmux, shell=/bin/false
+Nov 21 08:31:42 ubuntu usermod[13350]: change user 'usbmux' password
+Nov 21 08:31:42 ubuntu chage[13355]: changed password expiry for usbmux
+Nov 21 08:31:42 ubuntu chfn[13358]: changed user 'usbmux' information
+Nov 21 08:31:43 ubuntu systemd-logind[646]: Watching system buttons on /dev/input/event8 (HP WMI hotkeys)
+Nov 21 08:31:43 ubuntu systemd-logind[646]: Watching system buttons on /dev/input/event1 (Power Button)
+Nov 21 08:31:43 ubuntu systemd-logind[646]: Watching system buttons on /dev/input/event0 (Power Button)
+Nov 21 08:32:05 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 21 08:32:16 ubuntu sudo:    joona : TTY=tty5 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt-get update
+Nov 21 08:32:16 ubuntu sudo: pam_unix(sudo:session): session opened for user root by joona(uid=0)
+Nov 21 08:32:18 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 21 08:32:34 ubuntu sudo:    joona : TTY=tty5 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt-get install xubuntu desktop
+Nov 21 08:32:34 ubuntu sudo: pam_unix(sudo:session): session opened for user root by joona(uid=0)
+Nov 21 08:32:34 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 21 08:32:47 ubuntu sudo:    joona : TTY=tty5 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt-get install xubuntu-desktop
+Nov 21 08:32:47 ubuntu sudo: pam_unix(sudo:session): session opened for user root by joona(uid=0)
+Nov 21 08:36:58 ubuntu sudo:    joona : TTY=tty5 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt-get install -y ssh
+Nov 21 08:36:58 ubuntu sudo: pam_unix(sudo:session): session opened for user root by joona(uid=0)
+Nov 21 08:36:58 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 21 08:37:04 ubuntu sudo:    joona : TTY=tty5 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt-get install ssh
+Nov 21 08:37:04 ubuntu sudo: pam_unix(sudo:session): session opened for user root by joona(uid=0)
+Nov 21 08:37:04 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 21 08:37:18 ubuntu systemd-logind[646]: Power key pressed.
+Nov 21 08:37:18 ubuntu systemd-logind[646]: Powering Off...
+Nov 21 08:37:18 ubuntu systemd-logind[646]: System is powering down.
+Nov 21 08:37:18 ubuntu sshd[759]: Received signal 15; terminating.
+Nov 21 08:37:58 ubuntu systemd-logind[651]: New seat seat0.
+Nov 21 08:37:58 ubuntu systemd-logind[651]: Watching system buttons on /dev/input/event1 (Power Button)
+Nov 21 08:37:58 ubuntu systemd-logind[651]: Watching system buttons on /dev/input/event0 (Power Button)
+Nov 21 08:37:58 ubuntu systemd-logind[651]: Watching system buttons on /dev/input/event4 (HP WMI hotkeys)
+Nov 21 08:38:05 ubuntu lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Nov 21 08:38:05 ubuntu lightdm: PAM adding faulty module: pam_kwallet.so
+Nov 21 08:38:05 ubuntu lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Nov 21 08:38:05 ubuntu lightdm: PAM adding faulty module: pam_kwallet5.so
+Nov 21 08:38:06 ubuntu lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Nov 21 08:38:06 ubuntu systemd-logind[651]: New session c1 of user lightdm.
+Nov 21 08:38:06 ubuntu systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Nov 21 08:38:09 ubuntu sshd[928]: Server listening on 0.0.0.0 port 22.
+Nov 21 08:38:09 ubuntu sshd[928]: Server listening on :: port 22.
+Nov 21 08:38:41 ubuntu lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Nov 21 08:38:41 ubuntu lightdm: PAM adding faulty module: pam_kwallet.so
+Nov 21 08:38:41 ubuntu lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Nov 21 08:38:41 ubuntu lightdm: PAM adding faulty module: pam_kwallet5.so
+Nov 21 08:38:41 ubuntu lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "joona"
+Nov 21 08:39:07 ubuntu dbus[638]: [system] Failed to activate service 'org.bluez': timed out
+Nov 21 08:40:22 ubuntu sshd[1119]: Accepted password for joona from 172.28.171.81 port 37518 ssh2
+Nov 21 08:40:22 ubuntu sshd[1119]: pam_unix(sshd:session): session opened for user joona by (uid=0)
+Nov 21 08:40:22 ubuntu systemd: pam_unix(systemd-user:session): session opened for user joona by (uid=0)
+Nov 21 08:40:22 ubuntu systemd-logind[651]: New session 1 of user joona.
+Nov 21 08:40:53 ubuntu sudo:    joona : TTY=pts/8 ; PWD=/home/joona ; USER=root ; COMMAND=/usr/bin/tail --lines=100 /home/joona/.bash_history /var/log/auth.log /var/log/apache2/*.log /var/log/syslog /etc/lsb-release
+Nov 21 08:40:53 ubuntu sudo: pam_unix(sudo:session): session opened for user root by joona(uid=0)
+
+==> /var/log/syslog <==
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:462/stat: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:462/cmdline: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.font-unix: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:size: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:start: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:size: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:start: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:abstractions: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:ubuntu-browsers.d: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:apparmor_api: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:local: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:force-complain: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:tunables: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:home.d: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:multiarch.d: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:xdg-user-dirs.d: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:disable: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:cache: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:size: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:start: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:dbus: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:mask: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:signal: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:mask: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:ptrace: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:mask: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:caps: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:mask: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:rlimit: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:mask: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:capability: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:namespaces: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:pivot_root: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:profile: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:mount: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:mask: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:network: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:af_unix: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:af_mask: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:file: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:mask: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:domain: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:version: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:stack: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:change_profile: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:change_onexec: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:change_hatv: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:change_hat: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:policy: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:set_load: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:versions: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:v7: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:v6: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:v5: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.features: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: message repeated 11 times: [ ureadahead:.: Ignored relative path]
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.replace: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: message repeated 4 times: [ ureadahead:.replace: Ignored relative path]
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:crontabs: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:eno1.dhclient_new.831: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:.: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: message repeated 18 times: [ ureadahead:.: Ignored relative path]
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:eno1.dhclient: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: message repeated 2 times: [ ureadahead:eno1.dhclient: Ignored relative path]
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:tmp: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:tmp: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:tracing_on: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:events/fs/open_exec/enable: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: ureadahead:events/fs/do_sys_open/enable: Ignored relative path
+Nov 21 08:39:06 ubuntu ureadahead[249]: Counted 4 CPUs
+Nov 21 08:39:06 ubuntu systemd[1]: Stopped Read required files in advance.
+Nov 21 08:40:20 ubuntu puppet-agent[985]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 21 08:40:22 ubuntu systemd[1]: Created slice User Slice of joona.
+Nov 21 08:40:22 ubuntu systemd[1]: Starting User Manager for UID 1000...
+Nov 21 08:40:22 ubuntu systemd[1]: Started Session 1 of user joona.
+Nov 21 08:40:22 ubuntu systemd[1122]: Reached target Sockets.
+Nov 21 08:40:22 ubuntu systemd[1122]: Reached target Timers.
+Nov 21 08:40:22 ubuntu systemd[1122]: Reached target Paths.
+Nov 21 08:40:22 ubuntu systemd[1122]: Reached target Basic System.
+Nov 21 08:40:22 ubuntu systemd[1122]: Reached target Default.
+Nov 21 08:40:22 ubuntu systemd[1122]: Startup finished in 32ms.
+Nov 21 08:40:22 ubuntu systemd[1]: Started User Manager for UID 1000.
+
+==> /etc/lsb-release <==
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=16.04
+DISTRIB_CODENAME=xenial
+DISTRIB_DESCRIPTION="Ubuntu 16.04.1 LTS"
